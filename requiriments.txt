@@ -1,0 +1,4 @@
+pandas
+seaboarn
+tensorflow
+matplotlib
