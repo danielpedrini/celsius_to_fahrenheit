@@ -25,4 +25,5 @@ Para executar o modelo, abra o arquivo `./model/model.ipynb`
 
 ### Contato
 Daniel Pedrini - daniel.pedrini@gmail.com
+
 Link: [Ensinar IA a fazer conversão de Celsius para Fahrenheit](https://github.com/danielpedrini/celsius_to_fahrenheit)
